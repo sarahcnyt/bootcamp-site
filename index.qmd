@@ -1,0 +1,16 @@
+---
+title: "Fall 2022 MMC / MAIJ boot camp"
+author: Sarah Cohen
+format: 
+   html: 
+      toc: true
+---
+
+
+This is a holding place for the materials for the Cronkite Schol's Fall 2022 boot camp sessions for MMC and MAIJ students. 
+
+The sections are: 
+
+* [Backgrounding people, stories and institutions](backgrounding.qmd)
+* [Public records primers](pubrecords.qmd)
+* [Using spreadsheets in journalism](spreadsheets.qmd)

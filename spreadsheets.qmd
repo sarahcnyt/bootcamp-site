@@ -1,0 +1,32 @@
+---
+title: "Spreadsheets in journalism"
+---
+
+[Cronkite data journalism textbook](https://cronkitedata.github.io/djtextbook/)
+
+
+## Preparation: 
+
+* Go through the [Excel refresher chapter](https://cronkitedata.github.io/djtextbook/xl-refresher.html) in my data journalism textbook
+
+
+## In class
+
+* One of the most important elements of working with data in news is to *interview* it like a source. We'll discuss how to go about that in class, following along with this old piece from Derek Willis: "[Take an interviewing approach to find stories in data](https://mediashift.org/2014/07/take-an-interviewing-approach-to-find-stories-in-data/)"
+
+
+* Day 1: We'll go through [filtering](https://cronkitedata.github.io/djtextbook/xl-filter-sort.html) and [pivot tables](https://cronkitedata.github.io/djtextbook/xl-pivot.html) using data from the Washington Post's police shooting data. 
+
+* Day 2:  We'll walk through how to do math on spreadsheets using the [Excel Formulas](https://cronkitedata.github.io/djtextbook/xl-formulas.html) exercise on a budget. 
+
+## Homework
+
+Your homework is shown in Canvas. It consists of two parts: 
+
+1. A dataset of animals impounded by the Maricopa County Animal Care and Control department. This will be used for filtering and pivot tables. 
+
+2. A story and dataset of Census population estimates for cities and towns in Georgia. You will replicate some of the sentences from that story. I'll get you started on this with a strategy during class. 
+
+
+
+
